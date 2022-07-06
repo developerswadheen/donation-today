@@ -1,0 +1,237 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#top-section {
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.top-banner {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    padding-right: 20%;
+    padding-left: 20%;
+    background: linear-gradient(rgba(52, 209, 123, 0.144), rgba(0, 0, 0, 0.815));
+
+
+}
+
+.top-banner h1 {
+    color: white;
+    font-size: 50px;
+    width: 700;
+}
+
+.top-banner p {
+    color: white;
+    padding-bottom: 20px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+#donate-section {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.donate-system {
+    margin-bottom: 30px;
+}
+
+.donate-system h1 {
+    font-size: 50px;
+    width: 700;
+}
+
+.donate-system p {
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#recommended {
+    border: 2px solid #FF5959;
+    color: #FF5959;
+    background-color: #FFEEEE;
+}
+
+.donate-amount {
+    display: inline-block;
+    width: 140px;
+    background-color: #FAFAFA;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#put-amount {
+    width: 40%;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #DADADA;
+    text-align: center;
+
+}
+
+.button-block {
+    margin-top: 30px;
+}
+
+#plan-section {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+
+#plan-section h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.plan-box {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: left;
+}
+
+.single-box {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 35%;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #DADADA;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sb-color1 {
+    background-color: #4f9da627;
+}
+
+.sb-color2 {
+    background-color: #ff595927;
+}
+
+.sb-color3 {
+    background-color: #FFF4D6;
+}
+
+
+#get-update {
+    text-align: center;
+    margin: 0 20%;
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+.my-update h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.my-update p {
+    padding-bottom: 40px;
+}
+
+.subscribe-box {
+    padding: 80px 120px;
+    background-color: #FFF4D6;
+}
+
+.input-item {
+    padding: 14px;
+    width: 400px;
+    background-color: rgba(128, 128, 128, 0.151);
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+
+.subscribe-button {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: -5px;
+
+}
+
+#mission {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgba(128, 128, 128, 0.11);
+}
+
+.help-mission {
+    padding-bottom: 50px;
+}
+
+.help-mission h1 {
+    font-size: 50px;
+}
+
+.help-mission span {
+    color: #FF5959;
+    font-size: 20px;
+}
+
+.flex-mission {
+    display: flex;
+}
+
+.mission-item {
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 10%;
+}
+
+.mission-box {
+    line-height: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+    width: 80%;
+}
+
+.mission-item-img img {
+    width: 500px;
+    padding-top: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    font-weight: 300;
+}
+
+footer span {
+    color: white;
+    font-size: 10px;
+}
